@@ -4,13 +4,14 @@ A window, invisible to GoGuardian, with proxies, games, and more!
 ## How to use
 Currently, you can't use it as it is in development, but when an early beta gets released (I will say here in the readme) here are the steps you can use:
 
-## Bookmarklet
 Go to unnamed.min.js (name subject to change) and copy the code. Bookmark any page (I use New Tab), right-click the bookmark, and click "edit". You can change the name to anything, but paste the code into the URL box. Now you can click the bookmarklet on any website to use it!
 
 ### The Problem with Bookmarklets
 Many schools block bookmarklets. You can check if bookmarklets are blocked on your computer by going to chrome://policy and searching for "URLBlocklist." After clicking "Show More," look for "javascript://*". If it does show up, you cannot use bookmarklets.
 Another way to do this is by using test.min.js as a bookmarklet, and then going to Google and clicking it. If nothing happens, bookmarklets are blocked.
 
+
+​
 ## Alternatives
 Because bookmarklets may be blocked, here are some alternatives.
 
