@@ -26,3 +26,5 @@ I <b>*may*</b> add a website, which will work like the Opener, except without ha
 
 # That's all for now!
 This repo is constantly recieving updates and changes. In its current form, the readme is the only file, but stay tuned, maybe watch the repository, and soon the beta will be released.
+<br>
+###### why is it so hard to work on this, its always on my mind but i always end up doing something else ._.
