@@ -1,6 +1,9 @@
 # UnnamedWIP
 A window, invisible to GoGuardian, with proxies, games, and more!
 
+## Disclaimer
+There is not a prerelease yet. You can't run it yet because it hasn't been prereleased.
+
 ## How to use
 Currently, you can't use it as it is in development, but when an early beta gets released (I will say here in the readme) here are the steps you can use:
 
